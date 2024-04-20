@@ -1,6 +1,6 @@
 # Gamelovers
 
-Projeto em Flutter desenvolvido para a matéria de Desenvolvimento Mobile ministrada pelo professor Diego Antunes.
+Project in Flutter developed for the Mobile Development subject taught by professor Diego Antunes.
 
 
 ## SCREENSHOTS
@@ -12,37 +12,32 @@ Projeto em Flutter desenvolvido para a matéria de Desenvolvimento Mobile minist
   <img src="https://github.com/phanjan/glover_t7/blob/main/screenshots/Screenshot_1713588860.png" width="22%"/>
 </p>
 
-# Integrantes da equipe:
-* Gabriel Jun Shibata
-* Rafael Alonzo de Oliveira
-* Vinícius de Souza Alves
 
-## Configuração inicial
 
-* Rodar os seguintes comandos no terminal:
+* Run the following commands in the terminal:
     ```
         flutter upgrade
         flutter create .
         flutter pub get
     ```
-## O que foi desenvolvido e por quem
-### Entrega 1
-* Páginas de cadastro e Login(Vinícius Alves)
-* Validação dos formulários(Vinícius Alves)
-* Feedbacks ao usuário(Rafael Alonzo e Vinícius Alves)
-* Código padronizado(Equipe)
-* Navegação entre páginas(Equipe)
-* Tratamento de variáveis(Equipe)
-* Página de "Escolha" para os jogos, onde são mostrados com a possibilidade do usuario curtir ou não (Rafael Alonzo)
-* Mock dos jogos para listagem (Rafael Alonzo e Vinícius Alves)
-* Página de perfil (Gabriel Shibata)
-* Transição entre as páginas de perfil e escolha dos jogos(Gabriel Shibata)
+## What was developed and by whom
+### Delivery 1
+* Registration and Login pages (Vinícius Alves)
+* Validation of forms (Vinícius Alves)
+* Feedback to the user (Rafael Alonzo and Vinícius Alves)
+* Standardized code (Team)
+* Navigation between pages (Team)
+* Variable handling (Team)
+* "Choose" page for games, where they are shown with the user being able to like it or not (Rafael Alonzo)
+* Mock of games for listing (Rafael Alonzo and Vinícius Alves)
+* Profile page (Gabriel Shibata)
+* Transition between profile pages and game selection (Gabriel Shibata)
 
-## O que está faltando?
-### Entrega 1
-* Alteração do perfil
-* Detalhes de cada jogo
+## What is missing?
+### Delivery 1
+* Profile change
+* Details of each game
 
-## Bugs Conhecidos
-### Entrega 1
-* Sem bugs conhecidos.
+## Known Bugs
+### Delivery 1
+* No known bugs.
