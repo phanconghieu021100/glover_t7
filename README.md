@@ -2,6 +2,15 @@
 
 Projeto em Flutter desenvolvido para a matéria de Desenvolvimento Mobile ministrada pelo professor Diego Antunes.
 
+
+## SCREENSHOTS
+<p style="float: center;">
+  <img src="https://github.com/phanjan/glover_t7/blob/main/screenshots/Screenshot_1713588829.png" width="22%"/>
+  <img src="https://github.com/phanjan/to_do_list_t6/blob/main/screensshot/Screenshot_1713452163.png" width="22%"/>
+  <img src="https://github.com/phanjan/to_do_list_t6/blob/main/screensshot/Screenshot_1713453075.png" width="22%"/>
+  <img src="https://github.com/phanjan/to_do_list_t6/blob/main/screensshot/Screenshot_1713453058.png" width="22%"/>
+</p>
+
 # Integrantes da equipe:
 * Gabriel Jun Shibata
 * Rafael Alonzo de Oliveira
